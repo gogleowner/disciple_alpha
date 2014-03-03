@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="abatis_version">
+        1
+    </string>
+    
+	<string name="abatis_init">
+		create table tb_abatis_test (
+            id integer primary key,
+            user_name text not null,
+            age integer,
+            user_info text
+		);	</string>
+	
+	<string name="selectMcheyneByDate">
+        SELECT month, day, word1, word2, word3, word4, read1, read2, read3, read4  FROM words; 
+	</string>
+	
+	
+	<string name="selectMcheyneByMonth">
+        SELECT day, word1, word2, word3, word4 FROM words WHERE month = #month#; 
+	</string>
+	
+	
+	<string name="selectOneMcheyne">
+		SELECT * FROM words WHERE month = 3 and day = 3
+	</string>
+	
+	<string name="getByName">
+        select id, user_name, age, user_info
+        from tb_abatis_user
+        where user_name = #userName#;
+	</string>
+	
+	<string name="getAll">
+        select *
+        from tb_abatis_user;
+	</string>
+
+</resources>

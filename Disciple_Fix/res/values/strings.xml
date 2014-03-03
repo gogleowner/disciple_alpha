@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">제자반</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="text1">하나둘셋</string>
+    <string name="malthmjari">하나님이 이처럼 세상을 사랑하사앙아아아아아아아아아</string>
+    <string name="image">image?!</string>
+
+    <color name="color_0read">#F5F5F5</color>
+
+    <string-array name="semester1">
+        <item>1 나의 신앙 고백과 간증</item>
+        <item>2 성경의 권위</item>
+        <item>3 하나님은 누구신가</item>
+        <item>4 예수그리스도는 누구신가</item>
+        <item>5 인간의 타락과 그 결과</item>
+        <item>6 예수 그리스도의 죽음</item>
+        <item>7 예수 그리스도의 부활</item>
+        <item>8 약속대로 오신 성령</item>
+        <item>9 거듭남과 믿음</item>
+        <item>10 의롭다 함을 받은 은혜</item>
+        <item>11 그리스도인의 성화</item>
+        <item>12 예수 그리스도의 재림</item>
+    </string-array>
+    <string-array name="semester2">
+        <item>1 순종을 통해 예수님 닮아가기</item>
+        <item>2 섬김 : 제자의 삶의 방식</item>
+        <item>3 전도 : 가장 위대한 사랑의 섬김</item>
+        <item>4 그리스도인의 성숙한 언어생활</item>
+        <item>5 거룩한 아름다움을 지켜가는 삶, 이성교제와 결혼</item>
+        <item>6 신앙인격의 연단</item>
+        <item>7 나의 모든 권리를 내어드림, 충성된 청지기로 살아가기</item>
+        <item>8 부르심과 열정</item>
+        <item>9 영적 전투</item>
+        <item>10 세계명 : 서로 사랑하라</item>
+    </string-array>
+    
+    
+</resources>
